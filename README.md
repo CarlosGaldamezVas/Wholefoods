@@ -1,9 +1,9 @@
 # Usage
+Example URL: https://www.wholefoodsmarket.com/products/meat/beef
 
-- Press **Command+Option+i** on your Mac or **F12** on your PC to open Inspect Element on your browser
-
+- Press `Command+Option+i` on your Mac or `F12` on your PC to open Inspect Element on your browser
 - Open the console:\
-![](https://github.com/DWWF/Wholefoods/blob/7bffc54a740beb93d3432b9d74adf38824900dcb/Screenshot%202022-06-26%20050351.png)
+![](https://github.com/DWWF/Wholefoods/blob/910e615441463c140b42ccffb88f22a6f7a36b99/console_example.png)
 - Copy and Paste the script into the console and hit enter
 ```javascript
 const product_container = document.querySelectorAll(".w-pie--product-tile"); //Product Container
