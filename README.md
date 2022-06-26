@@ -1,3 +1,7 @@
+# Output Examples
+* [JSON](/OUTPUT.json)
+* [CSV](/OUTPUT.csv)
+
 # Usage
 Example URL: https://www.wholefoodsmarket.com/products/meat/beef
 
