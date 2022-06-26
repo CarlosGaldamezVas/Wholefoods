@@ -2,6 +2,17 @@
 * [JSON](/OUTPUT.json)
 * [CSV](/OUTPUT.csv)
 
+
+| Title                                | Price     | Link                                                        |
+|--------------------------------------|-----------|-------------------------------------------------------------|
+| Boneless Beef Ribeye Steak           | $17.99/lb | /product/meat-boneless-beef-ribeye-steak-b07qzcksy2         |
+| Boneless Beef New York Strip Steak   | $17.99/lb | /product/meat-boneless-beef-new-york-strip-steak-b079vxcby1 |
+| Beef Tenderloin Steak (Filet Mignon) | $31.99/lb | /product/meat-beef-tenderloin-steak-filet-mignon-b07811nqgn |
+| Ground Beef 80% Lean/ 20% Fat        | $5.99/lb  | /product/meat-ground-beef-80-lean-20-fat-b07yfsxpsy         |
+| Boneless Beef Chuck Roast            | $7.99/lb  | /product/meat-boneless-beef-chuck-roast-b07815gm3n          |
+| Bone In Beef Ribeye Steak            | $16.99/lb | /product/meat-bone-in-beef-ribeye-steak-b07815wps3          |
+
+
 # Usage
 Example URL: https://www.wholefoodsmarket.com/products/meat/beef
 
