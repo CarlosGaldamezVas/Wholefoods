@@ -4,7 +4,7 @@ let data = [];
 product_container.forEach((el) => {
   product_title = el.querySelector(
     '[data-testid="product-tile-name"]'
-  ).textContent; // Product Title
+  ).textContent;
   product_price = el.querySelector(".regular_price").textContent;
   product_brand = el.querySelector(
     '[data-testid="product-tile-brand"]'
@@ -32,4 +32,4 @@ function downloadObjectAsJson(exportObj, exportName) {
   downloadAnchorNode.remove();
 }
 
-downloadObjectAsJson(data, "Beef");
+downloadObjectAsJson(data, "OUTPUT");
