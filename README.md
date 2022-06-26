@@ -3,7 +3,7 @@ Example URL: https://www.wholefoodsmarket.com/products/meat/beef
 
 - Press `Command+Option+i` on your Mac or `F12` on your PC to open Inspect Element on your browser
 - Open the console:\
-![](https://github.com/DWWF/Wholefoods/blob/910e615441463c140b42ccffb88f22a6f7a36b99/console_example.png)
+  - ![](https://github.com/DWWF/Wholefoods/blob/910e615441463c140b42ccffb88f22a6f7a36b99/console_example.png)
 - Copy and Paste the script into the console and hit enter
 ```javascript
 const product_container = document.querySelectorAll(".w-pie--product-tile"); //Product Container
@@ -42,3 +42,5 @@ function downloadObjectAsJson(exportObj, exportName) {
 
 downloadObjectAsJson(data, "OUTPUT");
 ```
+# Convert the JSON Output to CSV
+* Use https://data.page, or any other JSON to CSV conversion tool.
